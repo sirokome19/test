@@ -1,4 +1,5 @@
 print("aiueo")
+print("N M")
 print("takaaki")
 print("wakasugi")
 print("KY")
