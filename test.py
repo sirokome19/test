@@ -1,1 +1,1 @@
-print("Shiho Ando")
+print("Shiho Andi")
