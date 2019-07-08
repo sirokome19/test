@@ -1,3 +1,8 @@
 print("aiueo")
-
 print("yusuke")
+print("m m")
+print("Shiho Ando")
+print("N M")
+print("takaaki")
+print("wakasugi")
+print("KY")
