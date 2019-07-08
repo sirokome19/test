@@ -1,2 +1,6 @@
 print("aiueo")
 print("Shiho Ando")
+print("N M")
+print("takaaki")
+print("wakasugi")
+print("KY")
