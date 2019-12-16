@@ -7,3 +7,5 @@ print("N M")
 print("takaaki")
 print("wakasugi")
 print("KY")
+
+print('test_2019/12/16 kyamada')
